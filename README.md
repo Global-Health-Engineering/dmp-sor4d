@@ -9,7 +9,7 @@ The template was copied and adapted from the ETH Library at ETH Zurich and publi
 The DMP is available as:
 
 - [an open and machine-readible file format (Quarto)](https://github.com/Global-Health-Engineering/dmp-sor4d/blob/main/template/dmp-sor4d.qmd)
-- [as DOCX file for download](https://github.com/Global-Health-Engineering/dmp-sor4d/blob/main/template/dmp-sor4d.docx)
+- [as a DOCX file for download](https://github.com/Global-Health-Engineering/dmp-sor4d/blob/main/template/dmp-sor4d.docx)
 
 # License
 
